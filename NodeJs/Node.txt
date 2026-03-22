@@ -1,0 +1,6 @@
+1Q) what in nodejs
+2Q) what is libuv
+3Q) how libuv work in timers
+4Q) archtecture if node js
+5Q) event loop in nodejs
+6Q) what is multithreading in nodejs
